@@ -1,2 +1,2 @@
-![Output](ScreenShot/kmeans_manhattan.py)
+![Output](ScreenShot/kmeans_manhattan.py.png)
 
